@@ -81,8 +81,8 @@ This project is designed for **business leaders, analysts, and supply chain team
 ## 🛠 Technologies Used  
 
 - **Power BI** – Data visualization and dashboard creation  
-- **DAX (Data Analysis Expressions)** – Advanced calculations and measures  
-- **SQL** – Data extraction and preprocessing (if applicable)  
+- **DAX (Data Analysis Expressions)** – Advanced calculations and measures  , Data Cleaning
+- **SQL** – Data extraction and preprocessing 
 
 ---
 
