@@ -10,6 +10,12 @@ Atliq Hardware manufactures and distributes computer hardware products. The proj
 
 ---
 
+## 🌐 Live Dashboard
+🔗 [Click here to view the live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTMzNDlhZDEtYTBiNC00ZmJjLWE0ZTEtZmU4ZjM2NDgwYmE4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+---
+
+
 ## 💡 Key Learnings
 - Power BI essentials: Power Query, DAX, Data Modeling, Visualization  
 - Designing **interactive dashboards** for impactful storytelling  
@@ -38,7 +44,7 @@ Atliq Hardware manufactures and distributes computer hardware products. The proj
 - Top Customers & Products  
 - Profitability analysis  
 
-![Finance View](Screenshorts/finance_view.png)
+![Finance View](Screenshots/finance_view.png)
 
 ---
 
@@ -46,7 +52,7 @@ Atliq Hardware manufactures and distributes computer hardware products. The proj
 - Customer & Product performance  
 - Gross Margin % & Unit Economics  
 
-![Sales View](Screenshorts/sales_view.png)
+![Sales View](Screenshots/sales_view.png)
 
 ---
 
@@ -54,7 +60,7 @@ Atliq Hardware manufactures and distributes computer hardware products. The proj
 - Regional & Segment insights  
 - GM%, NP%, Operational Expenses  
 
-![Marketing View](Screenshorts/marketing_view.png)
+![Marketing View](Screenshots/marketing_view.png)
 
 ---
 
@@ -63,7 +69,7 @@ Atliq Hardware manufactures and distributes computer hardware products. The proj
 - Net Error & ABS Error  
 - Product & Customer trends  
 
-![Supply Chain View](Screenshorts/supply_chain_view.png)
+![Supply Chain View](Screenshots/supply_chain_view.png)
 
 ---
 
@@ -71,7 +77,7 @@ Atliq Hardware manufactures and distributes computer hardware products. The proj
 - Consolidated overview of Finance, Sales, Marketing & Supply Chain  
 - Key KPIs for decision-making at management level  
 
-![Executive View](Screenshorts/executive_view.png)
+![Executive View](Screenshots/executive_view.png)
 
 ---
 
